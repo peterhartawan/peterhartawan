@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+📓 Learning: Currently learning Golang
+
+📫 Reach Me: peterhartawan@gmail.com
+
 <!--
 **peterhartawan/peterhartawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
